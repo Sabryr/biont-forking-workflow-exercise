@@ -2,10 +2,10 @@ Hokkaido Pumpkin Soup
 
 # Ingredients
 
-1 Hokkaido Pumpkin
-roughly 500 ml of Water
-Seasonings to taste
-200 gr of sour cream
+- 1 Hokkaido Pumpkin
+- roughly 500 ml of Water
+- Seasonings to taste
+- 200 gr of sour cream
 
 # Instructions
 
